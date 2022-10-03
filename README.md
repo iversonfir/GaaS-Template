@@ -1,5 +1,5 @@
-# GaaStemplate
-GaaStemplate
+# GaaS-Template
+GaaS-Template
 
 1. Tech Stack
 2. Clean Architecture
